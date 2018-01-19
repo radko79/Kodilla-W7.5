@@ -4,7 +4,8 @@
   "description": "website with embedded youtube song and lyrics",
   "main": "index.js",
   "dependencies": {
-    "autoprefixer-cli": "^1.0.0"
+    "autoprefixer-cli": "^1.0.0",
+    "nu-html-checker": "^0.1.0"
   },
   "devDependencies": {},
   "scripts": {
