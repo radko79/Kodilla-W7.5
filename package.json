@@ -1,0 +1,24 @@
+{
+  "name": "7.5",
+  "version": "1.0.0",
+  "description": "website with embedded youtube song and lyrics",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radko79/Lyrics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radko79/Lyrics/issues"
+  },
+  "homepage": "https://github.com/radko79/Lyrics#readme"
+}
